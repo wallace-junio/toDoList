@@ -1,2 +1,13 @@
-# toDoList
-Projeto criado para estudo e prática de ReactJS, focando em boas práticas de componentização, gerenciamento de estado com Hooks e organização do código.
+## 📋 ToDo List - ReactJS
+
+Projeto desenvolvido para fins de estudo, com o objetivo de praticar os principais conceitos do ReactJS, incluindo:
+- Componentes
+- Hooks (`useState`)
+- Manipulação de eventos
+- Renderização condicional
+
+🚀 Tecnologias:
+- ReactJS
+- JavaScript
+- CSS
+
