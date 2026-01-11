@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,18 @@ export default defineConfig([
   },
 ])
 ```
+=======
+## 📋 ToDo List - ReactJS
+
+Projeto desenvolvido para fins de estudo, com o objetivo de praticar os principais conceitos do ReactJS, incluindo:
+- Componentes
+- Hooks (`useState`)
+- Manipulação de eventos
+- Renderização condicional
+
+🚀 Tecnologias:
+- ReactJS
+- JavaScript
+- CSS
+
+>>>>>>> 4a31dff054e582e2a7f3a6193cf567ad19cba41b
